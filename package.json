@@ -1,0 +1,24 @@
+{
+  "name": "ada_trabajos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciagoyochea/ADA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/patriciagoyochea/ADA/issues"
+  },
+  "homepage": "https://github.com/patriciagoyochea/ADA#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
